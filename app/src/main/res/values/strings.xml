@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="header">Loan Calculator</string>
+    <string name="loanAmountMsg">Loan Amount</string>
+    <string name="loanYearMsg">Term of Loan (years)</string>
+    <string name="yearInterestMsg">Yearly Interest Rate</string>
+    <string name="calculateMsg">Calculate</string>
+    <string name="clearMsg">Clear</string>
+    <string name="resultMsg">Results</string>
+    <string name="monthlyPaymentMsg">Monthly Payment:</string>
+    <string name="totalPaymentMsg">Total Payment:</string>
+    <string name="totalInterestMsg">Total Interest:</string>
+
+    <string name="fakeLoanTotal">50000</string>
+    <string name="fakeTermLoan">7</string>
+    <string name="fakeYearlyLoan">7.5</string>
+    <string name="fakeMonthPaym">766.91</string>
+    <string name="fakeTotalPaym">64420.44</string>
+    <string name="fakeTotalInt">14420.44</string>
+</resources>
