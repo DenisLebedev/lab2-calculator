@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="calculateMsg">Calculer</string>
+    <string name="clearMsg">Effacer</string>
+    <string name="fakeLoanTotal">50000</string>
+    <string name="fakeMonthPaym">766.91</string>
+    <string name="fakeTermLoan">7</string>
+    <string name="fakeTotalInt">14420.44</string>
+    <string name="fakeTotalPaym">64420.44</string>
+    <string name="fakeYearlyLoan">7.5</string>
+    <string name="header">Calculateur de pret</string>
+    <string name="loanAmountMsg">Pret total</string>
+    <string name="loanYearMsg">Pret annuel</string>
+    <string name="monthlyPaymentMsg">Payment mensuel:</string>
+    <string name="resultMsg">Resultat</string>
+    <string name="totalInterestMsg">Interet total:</string>
+    <string name="yearInterestMsg">Interet annuel:</string>
+    <string name="totalPaymentMsg">Payment total:</string>
+</resources>
