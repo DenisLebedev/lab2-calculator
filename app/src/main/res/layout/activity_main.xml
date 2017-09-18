@@ -94,7 +94,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="4"
             android:text="@string/calculateMsg"
-            android:onClick="calculate"/>
+            android:onClick="calculate"
+            style="@style/butBackgroung"/>
 
         <Button
             android:id="@+id/clear"
@@ -102,7 +103,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="2"
             android:text="@string/clearMsg"
-            android:onClick="clearApp"/>
+            android:onClick="clearApp"
+            style="@style/butBackgroung"/>
 
     </LinearLayout>
 
