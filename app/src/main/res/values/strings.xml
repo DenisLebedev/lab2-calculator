@@ -17,4 +17,5 @@
     <string name="fakeMonthPaym">766.91</string>
     <string name="fakeTotalPaym">64420.44</string>
     <string name="fakeTotalInt">14420.44</string>
+    <string name="title_activity_map">MapActivity</string>
 </resources>
